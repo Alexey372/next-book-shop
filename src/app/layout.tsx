@@ -1,5 +1,5 @@
 import type { Metadata } from "next"
-import "./globals.sass"
+import "@/app/styles/globals.sass"
 
 export const metadata: Metadata = {
 	title: "IT book.ru",
